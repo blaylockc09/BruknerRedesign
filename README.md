@@ -1,5 +1,5 @@
 # BruknerRedesign
-
+ This assignment was a redesign for Brukner Nature Center a non-profit, privately funded organization promoting the appreciation and understanding of wildlife conservation through preservation, education, and rehabilitation.
 ## Assignment Requirements 
 
 - Responsive - All pages must be fully responsive
