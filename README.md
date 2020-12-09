@@ -2,9 +2,9 @@
 
 ## Requirements 
 
--Responsive - All pages must be fully responsive
--Framework - You can use the framework(s) of your choice
--HTML5 Semantic Markup - Must use HTML5 semantic markup and the associated tags
+- Responsive - All pages must be fully responsive
+- Framework - You can use the framework(s) of your choice
+- HTML5 Semantic Markup - Must use HTML5 semantic markup and the associated tags
 -Content - Must contain all information that is present on the existing website. You can change the page structure and layout if you choose to do so.
 -CSS Preprocessor - Must use a CSS preprocessor (of your choice) for at least one CSS file
 -Code Comments - Your code must contain useful comments
